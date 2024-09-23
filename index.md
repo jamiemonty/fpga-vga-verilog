@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Title
 tags: fpga vga verilog
 categories: demo
 ---
