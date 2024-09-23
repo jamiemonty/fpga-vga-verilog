@@ -35,5 +35,6 @@ A bullet list can be rendered as follows:
 - algorithms
 - iterators
 
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML.
+Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
+
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/DigitalRainDev1.png" width="100" height="100">
