@@ -16,17 +16,17 @@ The design splits the generation of the VGA synchronisation signals and the gene
 A Verilog testbench enables simulation of the template VGA design in Vivado. Some VGA parameter values are changed to have smaller values, just for simulation purposes. This is useful for two reasons: 1. Simulation time is significantly slower than real-time; 2. VGA timings require a high number of 25 MHz clock cycles before a VGA frame changes and hence before changes in the RGB colour output signal will be observed.
 ### Synthesis
 ### Demonstration
-
+## My VGA Design Edit
+## Markdown Basics
 This is a paragraph. Add an empty line to start a new paragraph.
 
-Font can be *Italic* or **Bold**.
+Font can be emphasised as *Italic* or **Bold**.
 
-Code can be highlighted with `backticks`.
+Code can be highlighted by using `backticks`.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Hyperlinks look like this: [GitHub Help](https://help.github.com/).
 
-A bullet list:
-
+A bullet list can be rendered:
 - vectors
 - algorithms
 - iterators
