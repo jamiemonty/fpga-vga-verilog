@@ -11,25 +11,25 @@ Add a short Welcome message or introduction here. Aim to get the viewer interest
 Summarise the project set-up and design flow. Include a screenshot of your own set-up. Guideline 1 short paragraph.
 ### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
-### Simulation
+### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
-### Synthesis
+### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
-### Demonstration
+### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
-## My VGA Design Edit
+## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
-### Code Design
+### **Code Design**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
-### Simulation
+### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
-### Synthesis
+### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
-### Demonstrations
+### **Demonstrations**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
-## Markdown Basics
+## **Markdown Basics
 This is a paragraph. Add an empty line to start a new paragraph.
 
 Font can be emphasised as *Italic* or **Bold**.
