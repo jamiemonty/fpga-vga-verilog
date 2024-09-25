@@ -19,7 +19,7 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
 ## My VGA Design Edit
-Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online.
+Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
 ### Code Design
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### Simulation
