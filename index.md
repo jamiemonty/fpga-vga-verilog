@@ -1,6 +1,6 @@
 ---
 layout: home
-title: FPGA VGA Driver
+title: FPGA VGA Driver Project
 tags: fpga vga verilog
 categories: demo
 ---
