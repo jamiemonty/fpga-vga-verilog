@@ -7,9 +7,9 @@ categories: demo
 
 Add a short Welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences.
 
-### Project Set-Up
+### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up. Guideline 1 short paragraph.
-### Template Code
+### **Template Code**
 Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 ### Simulation
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
