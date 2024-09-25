@@ -29,7 +29,7 @@ Describe the synthesis & implementation outputs for your design, are there any d
 ### **Demonstrations**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
-## **Markdown Basics
+## **Markdown Basics**
 This is a paragraph. Add an empty line to start a new paragraph.
 
 Font can be emphasised as *Italic* or **Bold**.
