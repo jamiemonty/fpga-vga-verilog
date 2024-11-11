@@ -5,7 +5,7 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences.
+Hello and welcome ot my System on Chip Design and Verification Project on the FPGA-VGA-Verilog colour cycles.
 
 ## **Template VGA Design**
 ### **Project Set-Up**
